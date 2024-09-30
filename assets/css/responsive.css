@@ -564,8 +564,8 @@
 
     .banner-five__moc {
         position: relative;
-        top: auto;
-        right: auto;
+        /* top: auto; */
+        /* right: auto; */
         max-width: 100%;
         display: block;
         margin-left: auto;
